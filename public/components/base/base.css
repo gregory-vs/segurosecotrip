@@ -4956,7 +4956,7 @@ button {
 }
 
 html {
-	font-size: 13px;
+	font-size: 1.3rem;
 }
 
 @media (min-width: 768px) {
@@ -5853,6 +5853,10 @@ button.bg-900:focus {
 
 .bg-gradient-blue-violet {
 	background-image: linear-gradient(46.03deg, #28A8FF -1.86%, #7D2EFF 100%);
+}
+
+.bg-gradient-green-ecotrip {
+	background-image: linear-gradient(270deg, #C3CFA7 0%, #5A5A10 100%)
 }
 
 .bg-gradient-electric-violet {
